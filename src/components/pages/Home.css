@@ -1,0 +1,104 @@
+
+.Container {
+ 
+  height: 659px;
+  width: 100%;
+  background: url("../../images/young-beautiful-woman-doing-yoga-nature_1139-909.webp");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+
+  
+}
+
+
+.subContainer {
+  margin-left: 20px;
+  color: white;
+}
+.subheading{
+   margin-top: 100px;
+   
+    font-size: 24px;
+    color: rgba(255,255,255,.9);
+    display: inline-block;
+    font-family: "Reenie Beanie",cursive;
+ 
+}
+.heading{
+  
+   line-height: 1.2;
+    font-weight: 300;
+    font-family: "Poppins",Arial,sans-serif
+}
+
+.container-cards-col{
+ margin: 50px;
+   display: flex;
+   justify-content: space-around;
+ 
+}
+.cards{
+  
+  height: 430px;
+  width :350px;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: white;
+  
+}
+
+
+.inside-cards h3{
+ margin-top: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 500;
+  color: #446A46;
+}
+.inside-cards p{
+  padding: 20px;
+  font-size: 20px;
+  color: #82A284;
+}
+.advertise-cards{
+  display: flex;
+  justify-content: space-evenly;
+  padding: 20px;
+  margin-top: 100px;
+  
+}
+.adverise-cards-box{
+  background: url('../../images/Carrousel-6.webp');
+  height: 400px;
+  width: 100rem;
+  background-repeat: no-repeat;
+  background-position: 100%;
+  
+
+}
+
+.adverise-cards-info{
+
+  margin-left: 50px;
+  align-items: center;
+  font-weight: smaller;
+    color: #6cae22;
+    font-family: "Reenie Beanie", cursive;
+}
+.adverise-cards-info h2{
+  margin-top: 15px;
+  color: #000;
+}
+.adverise-cards-info h3{
+  margin-top: 20px;
+  color: #1c1d1c;
+  font-size: 30px;
+  font-weight: 700;
+  
+ 
+}
+.adverise-cards-info p{
+  margin-top: 15px;
+  color: #6e726e;
+  font-size: 20px;
+}

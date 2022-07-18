@@ -1,0 +1,31 @@
+.Container1 {
+    
+     height: 600px;
+     width: 100%;
+     background: url('../../images/yoga-for-transformation-1.webp');
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+   
+     
+   }
+   
+   
+   .subContainer1 {
+     margin-left: 20px;
+     color: white;
+   }
+   .subheading1{
+      margin-top: 100px;
+      
+       font-size: 24px;
+       color: rgba(255,255,255,.9);
+       display: inline-block;
+       font-family: "Reenie Beanie",cursive;
+    
+   }
+   .heading1{
+     
+      line-height: 1.2;
+       font-weight: 300;
+       font-family: "Poppins",Arial,sans-serif
+   }

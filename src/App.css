@@ -1,0 +1,17 @@
+.heading-app{
+    
+        text-align: center;
+        margin-top: 20px;
+        font-size: 55px;
+        color: #12135c;
+        text-transform: capitalize;
+        text-shadow: 2px 2px #fac213;
+        transform: scale(0.94);
+        animation: scale 2s forwards cubic-bezier(0.5, 1, 0.89, 1);
+        margin-bottom: 200px;
+      }
+      @keyframes scale {
+        100% {
+          transform: scale(1);
+        }
+      }

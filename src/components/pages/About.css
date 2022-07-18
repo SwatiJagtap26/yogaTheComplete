@@ -1,0 +1,107 @@
+.about-main {
+  text-align: center;
+}
+.about-head {
+  margin-top: 20px;
+  font-size: 20px;
+  display: block;
+  margin-bottom: 5px;
+  color: rgb(108, 174, 34);
+  font-family: "Reenie Beanie", cursive;
+}
+.aboutus-img {
+  margin-top: 20px;
+  height: 60rem;
+  width: 200rem;
+  background: url("../../images/aboutus.webp");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.about-box {
+  display: flex;
+  justify-content: space-evenly;
+}
+.about-box-info {
+  padding: 20px;
+  margin-left: 30px;
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.about-box-info p {
+  color: gray;
+  font-size: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.about-customer {
+  margin: 30px;
+}
+/* .feedback-ad{
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    background: url(../../images/banner.webp);
+    background-size:100% ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+   opacity: 9;
+
+} */
+
+.about-Banner {
+  height: 500px;
+  width: 100%;
+  background: url(../../images/banner.webp);
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}
+.about-card-flex {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+}
+.about-card-flex-slider {
+  margin: auto;
+  height: 400px;
+  width: 400px;
+  background: #337022;
+  position: relative;
+  font-family: "Poppins", Arial, sans-serif;
+  color: rgb(207, 195, 195);
+  font-size: 25px;
+  text-align: center;
+  padding: 50px;
+}
+.about-Card-img{
+  margin-top: 50px;
+  float: left;
+  margin-left: 30px;
+  height: 80px;
+  width: 100px;
+  border-radius: 90%;
+  border: solid black;
+  background-color: blue;
+}
+.about-Card-Title h4{
+ color: #fff;
+ font: 1em sans-serif;
+ margin-top: 60px;
+ 
+}
+.about-Card-Title p{
+  color: #fff;
+ font:  sans-serif;
+ font-size: 15px;
+ line-height: 50px;
+ 
+}
+.about-card-star{
+  margin-left: 50px 
+}
+.about-card-flex-info{
+  margin-top: 100px;
+  margin-left: 50px;
+  text-align: center;
+}
